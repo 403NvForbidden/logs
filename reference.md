@@ -3,6 +3,8 @@
  - [social networks explains academic success](https://www.pnas.org/content/pnas/116/3/792.full.pdf)
  - [social network and inequalities](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158)
  the factor that influence the the start position in academic job market (granted with phD program)
+ **method**: 
+ 
  
  
  
@@ -18,7 +20,7 @@
 	 - Average Degree: measure of how collaborative 
 	 - Density: the degree of collaboration in the network  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDU2ODcxMSw5NTQ0MTYxMjcsLTIwMz
-I1ODgyNTYsLTI1NzM4MzMsLTc5OTM2MzA5OCwtMTY3MjUxNDc0
-LDE5MDc3MTMzNTcsMzc3NzA2NzcwXX0=
+eyJoaXN0b3J5IjpbLTE5MzM4MzQ2NzQsMTM5NDU2ODcxMSw5NT
+Q0MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4MzMsLTc5OTM2MzA5
+OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2NzcwXX0=
 -->
