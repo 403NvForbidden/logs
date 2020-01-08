@@ -9,9 +9,9 @@
 	
 
 	 - Degree Centrality: the co-authorship networks it is a measure of how often an author collaborates with other authors in the network. 
-	 - 
+	 - Eigenvector Centrality: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg0ODgwMjAsLTI1NzM4MzMsLTc5OT
+eyJoaXN0b3J5IjpbLTE3MTY0MTI3MDgsLTI1NzM4MzMsLTc5OT
 M2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2Nzcw
 XX0=
 -->
