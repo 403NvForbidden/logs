@@ -5,7 +5,10 @@
  - [pure Math of academic social networks](https://www.researchgate.net/publication/284765879_The_Mathematics_of_Social_Network_Analysis_Metrics_for_Academic_Social_Networks/link/5b8cdc1fa6fdcc5f8b7a4fbe/download)
 
 social networks formed by social interactions like co-authoring, advising, supervising, and serving on committees between academics; directing, acting
+
+de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzM4MzMsLTc5OTM2MzA5OCwtMTY3Mj
-UxNDc0LDE5MDc3MTMzNTcsMzc3NzA2NzcwXX0=
+eyJoaXN0b3J5IjpbLTIyMTMxOTM3NCwtMjU3MzgzMywtNzk5Mz
+YzMDk4LC0xNjcyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3NzBd
+fQ==
 -->
