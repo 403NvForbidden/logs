@@ -13,9 +13,11 @@
 	 In co-authorships networs it represents the author's ability to receive new research ideas
 	 -  Betweenness Centrality: nodes with high betweenness centrality occupy strategic positions in the network. 重要地位
 	 - Closeness centrality: diversity of the connections
-	 - Clustering co-efficient: predi 
+	 - Clustering co-efficient: prediction of future collaborations
+	 - Average Degree: measure of how collaborative 
+	 - Density: the degree of colla 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTYwMTE3NSwtMjAzMjU4ODI1NiwtMj
+eyJoaXN0b3J5IjpbMTg3Njg1MzU5NCwtMjAzMjU4ODI1NiwtMj
 U3MzgzMywtNzk5MzYzMDk4LC0xNjcyNTE0NzQsMTkwNzcxMzM1
 NywzNzc3MDY3NzBdfQ==
 -->
