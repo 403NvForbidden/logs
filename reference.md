@@ -8,12 +8,12 @@
 
 	
 
-	 - Degree Centrality: the co-authorship networks it is a measure of how often an author collaborates with other authors in the network. 
+	 - Degree Centrality: measure of how often an author collaborates with other authors in the network. 
 	 - Eigenvector Centrality: depends on the quality of connections nodes with higher eigenvector centrality lie at the centre of flow of ideas and information in the network.
 	 In co-authorships networs it represents the author's ability to receive new research ideas
-	 -  
+	 -  Betweenness Centrality: nodes with high betweenness centrality occupy startegic positions in the network. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI1ODgyNTYsLTI1NzM4MzMsLTc5OT
-M2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2Nzcw
-XX0=
+eyJoaXN0b3J5IjpbLTE0NTgxNTQzMDIsLTIwMzI1ODgyNTYsLT
+I1NzM4MzMsLTc5OTM2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMz
+NTcsMzc3NzA2NzcwXX0=
 -->
