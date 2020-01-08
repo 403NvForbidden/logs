@@ -6,9 +6,12 @@
 
 	social networks formed by social interactions like co-authoring, advising, supervising, and serving on committees between academics; directing, acting
 
-	Degree Centrality: 
+	
+
+	 - Degree Centrality: the co-authorship networks it is a measure of how often an author collaborates with other authors in the network. 
+	 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI1ODE0NzQsLTI1NzM4MzMsLTc5OT
+eyJoaXN0b3J5IjpbLTE3Mzg0ODgwMjAsLTI1NzM4MzMsLTc5OT
 M2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2Nzcw
 XX0=
 -->
