@@ -4,11 +4,11 @@
  - [social network and inequalities](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158)
  - [pure Math of academic social networks](https://www.researchgate.net/publication/284765879_The_Mathematics_of_Social_Network_Analysis_Metrics_for_Academic_Social_Networks/link/5b8cdc1fa6fdcc5f8b7a4fbe/download)
 
-social networks formed by social interactions like co-authoring, advising, supervising, and serving on committees between academics; directing, acting
+	social networks formed by social interactions like co-authoring, advising, supervising, and serving on committees between academics; directing, acting
 
-de
+	Degree Centrality: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTMxOTM3NCwtMjU3MzgzMywtNzk5Mz
-YzMDk4LC0xNjcyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3NzBd
-fQ==
+eyJoaXN0b3J5IjpbLTE4NjI1ODE0NzQsLTI1NzM4MzMsLTc5OT
+M2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2Nzcw
+XX0=
 -->
