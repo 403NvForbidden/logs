@@ -20,9 +20,14 @@
 	 - Clustering co-efficient: prediction of future collaborations
 	 - Average Degree: measure of how collaborative 
 	 - Density: the degree of collaboration in the network  
+	
+ - [role of academic social networking](https://www.researchgate.net/publication/267642307_Academics_and_their_online_networks_Exploring_the_role_of_academic_social_networking_sites)
+ - 
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDU5MzA4NSwtNDMxNzM1NjIxLDEzOT
-Q1Njg3MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC0yNTczODMz
-LC03OTkzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEzMzU3LDM3Nz
-cwNjc3MF19
+eyJoaXN0b3J5IjpbLTMyNjU4NTc4NCwxMTE0NTkzMDg1LC00Mz
+E3MzU2MjEsMTM5NDU2ODcxMSw5NTQ0MTYxMjcsLTIwMzI1ODgy
+NTYsLTI1NzM4MzMsLTc5OTM2MzA5OCwtMTY3MjUxNDc0LDE5MD
+c3MTMzNTcsMzc3NzA2NzcwXX0=
 -->
