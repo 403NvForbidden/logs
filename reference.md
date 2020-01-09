@@ -22,9 +22,10 @@
  **data sources:** individual's CV on academia.edu, fields(names, subfield, PhD institution, year of doctorate, and country that grants phD)
  **methods and results**: 
 	 - ***SNA:*** 
-		 - density. reciprocity, centrality, coresness and GINI coefficient 
-			 - reciprocity: 10% symmetrical ties e.g. Chicago, Harvard, Berkeley, Michigan output > input
-			 - 
+		 - Density. reciprocity, centrality, coresness and GINI coefficient 
+		 - Reciprocity: 10% symmetrical ties e.g. Chicago, Harvard, Berkeley, Michigan output > input
+		 - Centrality: 
+				 - degree centrality:
 	 - ***Statistical analysis:*** 
 		 - Objective: identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
 		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
@@ -40,9 +41,9 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY5NTIxNjMsLTEzNjUxNTQ3NzcsLT
-IwNTQ0Njc3NiwtMzI2NTg1Nzg0LDExMTQ1OTMwODUsLTQzMTcz
-NTYyMSwxMzk0NTY4NzExLDk1NDQxNjEyNywtMjAzMjU4ODI1Ni
-wtMjU3MzgzMywtNzk5MzYzMDk4LC0xNjcyNTE0NzQsMTkwNzcx
-MzM1NywzNzc3MDY3NzBdfQ==
+eyJoaXN0b3J5IjpbMTcyMDA5MTU2NCwtMjA3Njk1MjE2MywtMT
+M2NTE1NDc3NywtMjA1NDQ2Nzc2LC0zMjY1ODU3ODQsMTExNDU5
+MzA4NSwtNDMxNzM1NjIxLDEzOTQ1Njg3MTEsOTU0NDE2MTI3LC
+0yMDMyNTg4MjU2LC0yNTczODMzLC03OTkzNjMwOTgsLTE2NzI1
+MTQ3NCwxOTA3NzEzMzU3LDM3NzcwNjc3MF19
 -->
