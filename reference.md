@@ -20,7 +20,7 @@
  - [social network and inequalities](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158)
  **objective:** the factor that influence the the start position in academic job market (granted with phD program)
  **data sources:** individual's CV on academia.edu, fields(names, subfield, PhD institution, year of doctorate, and country that grants phD)
- **methods**: 
+ **methods and results**: 
 	 - ***SNA:*** 
 		 - density. reciprocity, centrality, coresness and GINI coefficient 
 	 - ***Statistical analysis:*** 
@@ -38,9 +38,9 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDgxNDgwNCwtMjA1NDQ2Nzc2LC0zMj
-Y1ODU3ODQsMTExNDU5MzA4NSwtNDMxNzM1NjIxLDEzOTQ1Njg3
-MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC0yNTczODMzLC03OT
-kzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEzMzU3LDM3NzcwNjc3
-MF19
+eyJoaXN0b3J5IjpbLTEzNjUxNTQ3NzcsLTIwNTQ0Njc3NiwtMz
+I2NTg1Nzg0LDExMTQ1OTMwODUsLTQzMTczNTYyMSwxMzk0NTY4
+NzExLDk1NDQxNjEyNywtMjAzMjU4ODI1NiwtMjU3MzgzMywtNz
+k5MzYzMDk4LC0xNjcyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3
+NzBdfQ==
 -->
