@@ -23,6 +23,7 @@
  **methods and results**: 
 	 - ***SNA:*** 
 		 - density. reciprocity, centrality, coresness and GINI coefficient 
+			 - reciprocity: 10% symmetrical ties
 	 - ***Statistical analysis:*** 
 		 - Objective: identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
 		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
@@ -38,9 +39,9 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUxNTQ3NzcsLTIwNTQ0Njc3NiwtMz
-I2NTg1Nzg0LDExMTQ1OTMwODUsLTQzMTczNTYyMSwxMzk0NTY4
-NzExLDk1NDQxNjEyNywtMjAzMjU4ODI1NiwtMjU3MzgzMywtNz
-k5MzYzMDk4LC0xNjcyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTIyNjM0MDgzMiwtMTM2NTE1NDc3NywtMj
+A1NDQ2Nzc2LC0zMjY1ODU3ODQsMTExNDU5MzA4NSwtNDMxNzM1
+NjIxLDEzOTQ1Njg3MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC
+0yNTczODMzLC03OTkzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEz
+MzU3LDM3NzcwNjc3MF19
 -->
