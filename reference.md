@@ -15,6 +15,8 @@
 
 
  - [social networks explains academic success](https://www.pnas.org/content/pnas/116/3/792.full.pdf)
+ 
+ 
  - [social network and inequalities](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158)
  **objective:** the factor that influence the the start position in academic job market (granted with phD program)
  **data sources:** individual's CV on academia.edu, fields(names, subfield, PhD institution, year of doctorate, and country that grants phD)
@@ -30,8 +32,8 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5NjA5NjA4LC0zMjY1ODU3ODQsMTExND
-U5MzA4NSwtNDMxNzM1NjIxLDEzOTQ1Njg3MTEsOTU0NDE2MTI3
-LC0yMDMyNTg4MjU2LC0yNTczODMzLC03OTkzNjMwOTgsLTE2Nz
-I1MTQ3NCwxOTA3NzEzMzU3LDM3NzcwNjc3MF19
+eyJoaXN0b3J5IjpbLTIwNTQ0Njc3NiwtMzI2NTg1Nzg0LDExMT
+Q1OTMwODUsLTQzMTczNTYyMSwxMzk0NTY4NzExLDk1NDQxNjEy
+NywtMjAzMjU4ODI1NiwtMjU3MzgzMywtNzk5MzYzMDk4LC0xNj
+cyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3NzBdfQ==
 -->
