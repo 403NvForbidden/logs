@@ -32,9 +32,7 @@
 	 - ***Statistical analysis:*** 
 		 - ***Objective:*** identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
 		 - active graduate student; ranking; mean publications per faculty member; mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
-		 - ***results: *** 
-
- 
+		 - ***Results:***  universities with large endowments and have faculty who hold prestigious awards and are widely cited by other scholars
  
  
  
@@ -45,10 +43,10 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMjQyMzQzLC00MzI5MzQ3MjgsMTcyMD
-A5MTU2NCwtMjA3Njk1MjE2MywtMTM2NTE1NDc3NywtMjA1NDQ2
-Nzc2LC0zMjY1ODU3ODQsMTExNDU5MzA4NSwtNDMxNzM1NjIxLD
-EzOTQ1Njg3MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC0yNTcz
-ODMzLC03OTkzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEzMzU3LD
-M3NzcwNjc3MF19
+eyJoaXN0b3J5IjpbLTE1MDIyNjM0MDQsMjIzMjQyMzQzLC00Mz
+I5MzQ3MjgsMTcyMDA5MTU2NCwtMjA3Njk1MjE2MywtMTM2NTE1
+NDc3NywtMjA1NDQ2Nzc2LC0zMjY1ODU3ODQsMTExNDU5MzA4NS
+wtNDMxNzM1NjIxLDEzOTQ1Njg3MTEsOTU0NDE2MTI3LC0yMDMy
+NTg4MjU2LC0yNTczODMzLC03OTkzNjMwOTgsLTE2NzI1MTQ3NC
+wxOTA3NzEzMzU3LDM3NzcwNjc3MF19
 -->
