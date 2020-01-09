@@ -17,7 +17,7 @@
  - [social networks explains academic success](https://www.pnas.org/content/pnas/116/3/792.full.pdf)
  
  
- - [social network and inequalities](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158)
+ - 录用criteria [social network and inequalities](https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158)
  **objective:** the factor that influence the the start position in academic job market (granted with phD program)
  **data sources:** individual's CV on academia.edu, fields(names, subfield, PhD institution, year of doctorate, and country that grants phD)
  **methods and results**: 
@@ -35,16 +35,16 @@
 		 - ***Results:***  universities with large endowments and have faculty who hold prestigious awards and are widely cited by other scholars
  
  
-
  - [role of academic social networking](https://www.researchgate.net/publication/267642307_Academics_and_their_online_networks_Exploring_the_role_of_academic_social_networking_sites)
  - 
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzI3MzY4MiwtMTUwMjI2MzQwNCwyMj
-MyNDIzNDMsLTQzMjkzNDcyOCwxNzIwMDkxNTY0LC0yMDc2OTUy
-MTYzLC0xMzY1MTU0Nzc3LC0yMDU0NDY3NzYsLTMyNjU4NTc4NC
-wxMTE0NTkzMDg1LC00MzE3MzU2MjEsMTM5NDU2ODcxMSw5NTQ0
-MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4MzMsLTc5OTM2MzA5OC
-wtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2NzcwXX0=
+eyJoaXN0b3J5IjpbLTE1MDg5MDY0NzQsLTc0NzI3MzY4MiwtMT
+UwMjI2MzQwNCwyMjMyNDIzNDMsLTQzMjkzNDcyOCwxNzIwMDkx
+NTY0LC0yMDc2OTUyMTYzLC0xMzY1MTU0Nzc3LC0yMDU0NDY3Nz
+YsLTMyNjU4NTc4NCwxMTE0NTkzMDg1LC00MzE3MzU2MjEsMTM5
+NDU2ODcxMSw5NTQ0MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4Mz
+MsLTc5OTM2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3
+NzA2NzcwXX0=
 -->
