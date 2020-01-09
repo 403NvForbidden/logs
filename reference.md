@@ -30,7 +30,7 @@
 				 - eigenvector centrality: Chicago, Michigan and Harvard 
 				 - core-Periphery Structure (coreness): 
 	 - ***Statistical analysis:*** 
-		 - Objective: identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
+		 - ***Objective:*** identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
 		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
 
  
@@ -44,10 +44,10 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjkzNDcyOCwxNzIwMDkxNTY0LC0yMD
-c2OTUyMTYzLC0xMzY1MTU0Nzc3LC0yMDU0NDY3NzYsLTMyNjU4
-NTc4NCwxMTE0NTkzMDg1LC00MzE3MzU2MjEsMTM5NDU2ODcxMS
-w5NTQ0MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4MzMsLTc5OTM2
-MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2NzcwXX
-0=
+eyJoaXN0b3J5IjpbNjIyNTc1NjIsLTQzMjkzNDcyOCwxNzIwMD
+kxNTY0LC0yMDc2OTUyMTYzLC0xMzY1MTU0Nzc3LC0yMDU0NDY3
+NzYsLTMyNjU4NTc4NCwxMTE0NTkzMDg1LC00MzE3MzU2MjEsMT
+M5NDU2ODcxMSw5NTQ0MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4
+MzMsLTc5OTM2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMz
+c3NzA2NzcwXX0=
 -->
