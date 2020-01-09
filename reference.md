@@ -31,7 +31,8 @@
 				 - core-Periphery Structure (coreness): 
 	 - ***Statistical analysis:*** 
 		 - ***Objective:*** identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
-		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
+		 - active graduate student; ranking; mean publications per faculty member; mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
+		 - ***results: *** 
 
  
  
@@ -44,10 +45,10 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNTc1NjIsLTQzMjkzNDcyOCwxNzIwMD
-kxNTY0LC0yMDc2OTUyMTYzLC0xMzY1MTU0Nzc3LC0yMDU0NDY3
-NzYsLTMyNjU4NTc4NCwxMTE0NTkzMDg1LC00MzE3MzU2MjEsMT
-M5NDU2ODcxMSw5NTQ0MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4
-MzMsLTc5OTM2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMz
-c3NzA2NzcwXX0=
+eyJoaXN0b3J5IjpbMjIzMjQyMzQzLC00MzI5MzQ3MjgsMTcyMD
+A5MTU2NCwtMjA3Njk1MjE2MywtMTM2NTE1NDc3NywtMjA1NDQ2
+Nzc2LC0zMjY1ODU3ODQsMTExNDU5MzA4NSwtNDMxNzM1NjIxLD
+EzOTQ1Njg3MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC0yNTcz
+ODMzLC03OTkzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEzMzU3LD
+M3NzcwNjc3MF19
 -->
