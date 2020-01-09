@@ -21,6 +21,9 @@
  **objective:** the factor that influence the the start position in academic job market (granted with phD program)
  **data sources:** individual's CV on academia.edu, fields(names, subfield, PhD institution, year of doctorate, and country that grants phD)
  **method**: 
+	 - SNA: 
+	 - Statistical analysis:
+
  
  
  
@@ -32,8 +35,9 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ0Njc3NiwtMzI2NTg1Nzg0LDExMT
-Q1OTMwODUsLTQzMTczNTYyMSwxMzk0NTY4NzExLDk1NDQxNjEy
-NywtMjAzMjU4ODI1NiwtMjU3MzgzMywtNzk5MzYzMDk4LC0xNj
-cyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3NzBdfQ==
+eyJoaXN0b3J5IjpbLTg3NzEzMDUzLC0yMDU0NDY3NzYsLTMyNj
+U4NTc4NCwxMTE0NTkzMDg1LC00MzE3MzU2MjEsMTM5NDU2ODcx
+MSw5NTQ0MTYxMjcsLTIwMzI1ODgyNTYsLTI1NzM4MzMsLTc5OT
+M2MzA5OCwtMTY3MjUxNDc0LDE5MDc3MTMzNTcsMzc3NzA2Nzcw
+XX0=
 -->
