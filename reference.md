@@ -21,8 +21,9 @@
  **objective:** the factor that influence the the start position in academic job market (granted with phD program)
  **data sources:** individual's CV on academia.edu, fields(names, subfield, PhD institution, year of doctorate, and country that grants phD)
  **measures**: 
-	 - SNA: density. reciprocity, centrality, coresness and GINI coefficient 
-	 - Statistical analysis: 
+	 - ***SNA:*** 
+		 - density. reciprocity, centrality, coresness and GINI coefficient 
+	 - ***Statistical analysis:*** 
 		 - Objective: identify the 
 		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
 
@@ -37,9 +38,9 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE4NjY2MjUsLTIwNTQ0Njc3NiwtMz
-I2NTg1Nzg0LDExMTQ1OTMwODUsLTQzMTczNTYyMSwxMzk0NTY4
-NzExLDk1NDQxNjEyNywtMjAzMjU4ODI1NiwtMjU3MzgzMywtNz
-k5MzYzMDk4LC0xNjcyNTE0NzQsMTkwNzcxMzM1NywzNzc3MDY3
-NzBdfQ==
+eyJoaXN0b3J5IjpbMTUzNDUzODg3NiwtMjA1NDQ2Nzc2LC0zMj
+Y1ODU3ODQsMTExNDU5MzA4NSwtNDMxNzM1NjIxLDEzOTQ1Njg3
+MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC0yNTczODMzLC03OT
+kzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEzMzU3LDM3NzcwNjc3
+MF19
 -->
