@@ -23,7 +23,8 @@
  **methods and results**: 
 	 - ***SNA:*** 
 		 - density. reciprocity, centrality, coresness and GINI coefficient 
-			 - reciprocity: 10% symmetrical ties
+			 - reciprocity: 10% symmetrical ties e.g. Chicago, Harvard, Berkeley, Michigan output > input
+			 - 
 	 - ***Statistical analysis:*** 
 		 - Objective: identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
 		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
@@ -39,9 +40,9 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjM0MDgzMiwtMTM2NTE1NDc3NywtMj
-A1NDQ2Nzc2LC0zMjY1ODU3ODQsMTExNDU5MzA4NSwtNDMxNzM1
-NjIxLDEzOTQ1Njg3MTEsOTU0NDE2MTI3LC0yMDMyNTg4MjU2LC
-0yNTczODMzLC03OTkzNjMwOTgsLTE2NzI1MTQ3NCwxOTA3NzEz
-MzU3LDM3NzcwNjc3MF19
+eyJoaXN0b3J5IjpbLTIwNzY5NTIxNjMsLTEzNjUxNTQ3NzcsLT
+IwNTQ0Njc3NiwtMzI2NTg1Nzg0LDExMTQ1OTMwODUsLTQzMTcz
+NTYyMSwxMzk0NTY4NzExLDk1NDQxNjEyNywtMjAzMjU4ODI1Ni
+wtMjU3MzgzMywtNzk5MzYzMDk4LC0xNjcyNTE0NzQsMTkwNzcx
+MzM1NywzNzc3MDY3NzBdfQ==
 -->
