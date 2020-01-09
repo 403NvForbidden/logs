@@ -26,7 +26,8 @@
 		 - Reciprocity: 10% symmetrical ties e.g. Chicago, Harvard, Berkeley, Michigan output > input
 		 - Centrality: 
 				 - degree centrality: Michigan <=> diverse programs than Chicago and Harvard
-				 - betweeness centrality: Michigan, Arizona and 
+				 - betweeness centrality: Michigan, Arizona as bridge to other university program 
+				 - eigenve
 	 - ***Statistical analysis:*** 
 		 - Objective: identify the influence of productivity, prestige and institutional resources on the nmber of faculty  
 		 - use active graduate student, ranking, mean publications per faculty member, mean citations, mean awards GRE scores, university endowment, ranking in hiring dynamics
@@ -42,7 +43,7 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0OTM0MjcyLDE3MjAwOTE1NjQsLTIwNz
+eyJoaXN0b3J5IjpbODk0MjA4OTA5LDE3MjAwOTE1NjQsLTIwNz
 Y5NTIxNjMsLTEzNjUxNTQ3NzcsLTIwNTQ0Njc3NiwtMzI2NTg1
 Nzg0LDExMTQ1OTMwODUsLTQzMTczNTYyMSwxMzk0NTY4NzExLD
 k1NDQxNjEyNywtMjAzMjU4ODI1NiwtMjU3MzgzMywtNzk5MzYz
