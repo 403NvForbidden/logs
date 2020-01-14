@@ -40,6 +40,11 @@
  - 
  - [学术社交平台图标价](https://www.researchgate.net/publication/326706596_Academic_Social_Network_Sites_Opportunities_and_Challenges)
 
+databases:
+
+ - [SNAP](http://snap.stanford.edu/data/index.html#wikipedia)
+ - [Reality Commons](http://realitycommons.media.mit.edu/gallery.html)
+ - [CRAWDA](http://www.crawdad.org/upb/hyccups/20161017/)
 
 未读
  - [monitor online collaborative learning and guide an informed intervention](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0194777&type=printable)
@@ -48,5 +53,5 @@
  - [Social Network Analysis in Education Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041496/pdf/167.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDM0NDg5MCwyNzc2Nzc0ODddfQ==
+eyJoaXN0b3J5IjpbLTc3OTM1MjUzMywyNzc2Nzc0ODddfQ==
 -->
