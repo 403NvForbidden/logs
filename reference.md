@@ -40,12 +40,13 @@
  - 
  - [学术社交平台图标价](https://www.researchgate.net/publication/326706596_Academic_Social_Network_Sites_Opportunities_and_Challenges)
 
+
 未读
  - [monitor online collaborative learning and guide an informed intervention](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0194777&type=printable)
  - [Structuring successful collaboration](https://implementationscience.biomedcentral.com/track/pdf/10.1186/s13012-016-0381-y)
  - [Academic Social Network](http://thealphalab.org/papers/Academic%20social%20networks%20Modeling,%20analysis,%20mining%20and%20applications.pdf)
- - []()
+ - [Social Network Analysis in Education Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4041496/pdf/167.pdf)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTM1MjU1OSwyNzc2Nzc0ODddfQ==
+eyJoaXN0b3J5IjpbMTgwNDM0NDg5MCwyNzc2Nzc0ODddfQ==
 -->
